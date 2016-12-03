@@ -1,5 +1,4 @@
-# generator-react-2017 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> A simple react component generator
+# generator-react-2017 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
 ## Installation
 
@@ -7,14 +6,20 @@ First, install [Yeoman](http://yeoman.io) and generator-react-2017 using [npm](h
 
 ```bash
 npm install -g yo
-npm install -g generator-react-2017
+npm install -g generator-react-component-ez
 ```
 
 Then generate your new project:
 
 ```bash
-yo react-2017
+yo react-component-ez
 ```
+
+## Isolated component
+![](https://github.com/shaunwarman/generator-react-component/blob/master/react-isolated.gif)
+
+## In-app component
+![](https://github.com/shaunwarman/generator-react-component/blob/master/react-in-app.gif)
 
 ## Getting To Know Yeoman
 
