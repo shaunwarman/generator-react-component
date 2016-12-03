@@ -1,4 +1,4 @@
-# generator-react-2017 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
+# generator-react-component-ez [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
 ## Installation
 
